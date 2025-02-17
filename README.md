@@ -1,5 +1,5 @@
-# Author: Phoebe Le
-# Date: February 16th, 2025
+Author: Phoebe Le
+Date: February 16th, 2025
 
 # Description:
 This is a Python script that checks the strength of the password from the user input. Evaluate based on simple password checking rules:
